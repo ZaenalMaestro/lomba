@@ -22,11 +22,11 @@
 - `SESI 1`- Lomba makan biskuit
 - `SESI 2`- Tarik tambang
 - `SESI 3`- Estafet Air
-- `SESI 3` - Volly Mini Pakai Daster
+- `SESI 4` - Volly Mini Pakai Daster
 
 ### 17 Agustus 2023
-- `SESI 3`- Tarik Tambang(Final)
-- `SESI 3` - Volly Mini Pakai Daster(Final)
+- `SESI 1`- Tarik Tambang(Final)
+- `SESI 2` - Volly Mini Pakai Daster(Final)
 
 
 
