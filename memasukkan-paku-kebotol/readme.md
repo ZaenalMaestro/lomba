@@ -3,6 +3,8 @@
 # MEMASUKKAN PAKU KEDALAM BOTOL
 
 ### Aturan lomba
+- 3 Pemain
+- 1 Pemandu
 
 ### Daftar peserta
 pj: Ikka, Tenri
