@@ -60,6 +60,12 @@
 - aldi
 - aril
 
+@MBS
+- Safir
+- Akram
+- Ippang
+- Samson
+- Aril
 
 ##### Nama Tim
 - nama peserta
