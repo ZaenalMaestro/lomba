@@ -32,6 +32,9 @@
 ## ATURAN, NAMA PESERTA, DAN JADWAL
 
 👉 [Volly Mini](/volly-mini/readme.md)
+
+👉 [Tarik Tambang](/tarik-tambang/readme.md)
+
 👉 On Progress....
 
 
