@@ -5,6 +5,7 @@
 ### Aturan lomba
 
 ### Daftar peserta
+pj: Saira, Indah
 - azka
 - putra
 - reza
@@ -24,5 +25,3 @@
 - ummu
 - syakila
 - geleng
-
-### Jadwal lomba

@@ -5,6 +5,7 @@
 ### Aturan lomba
 
 ### Daftar peserta
+pj: Ikka, Tenri
 @ tim a
 - saqinah 
 - nurul

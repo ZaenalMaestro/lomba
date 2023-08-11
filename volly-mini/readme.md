@@ -82,7 +82,8 @@
 ## Jadwal lomba
 
 ### 13 Agustus 2023
-Match 1 - Tim Gemoi vs Penguasa Jalanan
+Pj: Sabir(wasit), aan, adi (hakim garis), Enal(catatan)
+Match 1 - Tim Gemoi vs Penguasa Jalanan 
 
 ### 14 Agustus 2023
 Match 2 - Condo - Condo Lotong vs Penjahat Ular
