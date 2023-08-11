@@ -93,5 +93,7 @@ Match 4 - Asgar Squad vs Parakang 01
 Match 5 - Street Band vs MBS
 
 ### 16 Agustus 2023
+Pemenang Match 1 vs Pemenang Match 2
+Pemenang Match 3 vs Pemenang Match 4
 
 ### 17 Agustus 2023
