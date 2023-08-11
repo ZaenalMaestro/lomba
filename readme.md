@@ -29,6 +29,12 @@
 - `SESI 2` - Volly Mini Pakai Daster(Final)
 
 
+## ATURAN, NAMA PESERTA, DAN JADWAL
+
+👉 [Volly Mini](/volly-mini/readme.md)
+👉 On Progress....
+
+
 
 ## Aturan lomba secara umum
 - Setiap peserta harus hadir 10 menit sebelum lomba dimulai
