@@ -3,7 +3,8 @@
 ### Aturan lomba
 
 ### Daftar peserta
-#### PUTRA
+
+#### TIM PUTRA:
 
 @tim A
 - nugi
@@ -39,4 +40,71 @@
 - aris
 - ahmad
 
+@street band
+- aditya
+- dedi
+- alwan
+- abi
+- subu
+
+@parakang 01
+- alil ramdani
+- hilmi
+- cico
+- daus
+- gusti
+
+@patado kappalaya
+- aci babe
+- sahar
+- bohari
+- mas eko
+- monsing
+
+@sipalagoang
+- dohang
+- misbah
+- cudding
+- habib senior
+
+
+#### TIM PUTRI:
+
+@tim A
+- tiara
+- sakinah
+- nurul
+- difa
+- faisa
+
+@sadropa girl
+- najwa
+- aziza
+- nur
+- naila
+- salwa
+
+@anekes
+- fitria
+- nabila
+- mawar
+- rezki
+- ain
+
+@tim penguasa jalanan
+- hj. ruha
+- tini
+- suma
+- herna
+- suriyani
+- ati
+- murti
+
+@tim black pink
+- lisa
+- jeni
+- rose
+- jiso
+- sahira
+- fahmi
 ### Jadwal lomba
