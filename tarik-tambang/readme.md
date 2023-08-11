@@ -1,3 +1,6 @@
+[👈 Kembali kehalaman utama](/readme.md)
+
+
 # TARIK TAMBANG
 
 ### Aturan lomba
