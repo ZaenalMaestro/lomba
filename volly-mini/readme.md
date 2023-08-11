@@ -18,6 +18,15 @@
 - awal
 - ikbal
 
+@tim penguasa jalanan
+- hj. ruha
+- tini
+- suma
+- herna
+- suriyani
+- ati
+- murti
+
 @tim gemoi
 - indah
 - sahira
@@ -73,6 +82,7 @@
 ## Jadwal lomba
 
 ### 13 Agustus 2023
+Match 1 - Penjahat Ular vs Condo-condo lotong
 
 ### 14 Agustus 2023
 
