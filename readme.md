@@ -1,3 +1,5 @@
+![Banner](/image.jpeg)
+
 #  HUT RI-78 | IRM Baburrahman Galung Beru
 
 ## JADWAL LOMBA
