@@ -35,8 +35,19 @@
 
 👉 [Tarik Tambang](/tarik-tambang/readme.md)
 
-👉 On Progress....
+👉 [Lari Karung](/lari-karung//readme.md)
 
+👉 [Sarung Berantai](/sarung-berantai//readme.md)
+
+👉 [Lomba Makan Biskuit](/lomba-makan-biskuit//readme.md)
+
+👉 [Memecahkan Balon](/memecahkan-balon//readme.md)
+
+👉 [Lari Kelereng](/lari-kelereng//readme.md)
+
+👉 [Stafet Air](/estafet-air/readme.md)
+
+👉 [Memasukkan Paku Kebotol](/memasukkan-paku-kebotol/readme.md)
 
 
 ## Aturan lomba secara umum

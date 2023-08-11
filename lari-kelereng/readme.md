@@ -1,7 +1,27 @@
+[👈 Kembali kehalaman utama](/readme.md)
+
 # LARI KELERENG
 
 ### Aturan lomba
 
 ### Daftar peserta
+- azka
+- putra
+- reza
+- fadil
+- nandar
+- wahyu
+- aslan mahira
+- salpa
+- alifa
+- ina
+- huria
+- salsa
+- adifa
+- aila
+- adit
+- ummu
+- syakila
+- geleng
 
 ### Jadwal lomba

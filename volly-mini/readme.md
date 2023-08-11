@@ -1,4 +1,5 @@
 [👈 Kembali kehalaman utama](/readme.md)
+
 # VOLLY MINI PAKAI DASTER
 
 #### Aturan lomba
@@ -8,7 +9,57 @@
 - wajib pakai daster
 - boleh melakukan smash
 
-#### Daftar peserta
+#### Daftar Tim
+
+@condo condo lotong
+- sinci
+- aris
+- hamma
+- awal
+- ikbal
+
+@tim gemoi
+- indah
+- sahira
+- ismi
+- ikka
+
+@penjahat ular
+- sabir
+- syamsir
+- adi 
+- aan
+
+@street band
+- aditya
+- dedi miswar
+- alwan
+- subuh
+
+@parakang 01
+- hilmi
+- cico
+- ari
+- gusti
+
+@satrova girl
+- salwa
+- najwa
+- nur
+- salsa
+
+@anekes
+- fitria
+- nabila
+- ain (kapinawangan)
+- rezki
+
+@asgar squad
+- henri
+- asran
+- aldi
+- aril
+
 
 ##### Nama Tim
 - nama peserta

@@ -8,7 +8,6 @@
 ### Daftar peserta
 
 #### TIM PUTRA:
-
 @tim A
 - nugi
 - alim
