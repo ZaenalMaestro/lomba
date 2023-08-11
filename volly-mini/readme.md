@@ -82,11 +82,15 @@
 ## Jadwal lomba
 
 ### 13 Agustus 2023
-Match 1 - Penjahat Ular vs Condo-condo lotong
+Match 1 - Tim Gemoi vs Penguasa Jalanan
 
 ### 14 Agustus 2023
+Match 2 - Condo - Condo Lotong vs Penjahat Ular
+Match 3 - Satrova Girl vs Anekes
 
 ### 15 Agustus 2023
+Match 4 - Asgar Squad vs Parakang 01
+Match 5 - Street Band vs MBS
 
 ### 16 Agustus 2023
 
