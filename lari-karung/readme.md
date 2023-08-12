@@ -22,6 +22,7 @@
 - sahraf
 - sahril
 - haidir
+- ikbal
 
 @anak-anak
 - wahyu
@@ -30,5 +31,3 @@
 - putra
 - bintang
 - naufal
-
-### Jadwal lomba
