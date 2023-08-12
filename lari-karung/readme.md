@@ -23,6 +23,8 @@
 - sahril
 - haidir
 - ikbal
+- riska
+- ibu dusun
 
 @anak-anak
 - wahyu
