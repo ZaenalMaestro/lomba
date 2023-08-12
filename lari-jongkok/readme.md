@@ -20,5 +20,5 @@
 - sahran
 - syahril
 - haidir
-
-### Jadwal lomba
+- riska
+- ibu dusun
