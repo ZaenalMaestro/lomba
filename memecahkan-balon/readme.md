@@ -29,5 +29,5 @@
 - daus
 - abi
 - ismi
-
-### Jadwal lomba
+- riska
+- ibu dusun
