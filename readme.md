@@ -37,6 +37,8 @@
 
 👉 [Lari Karung](/lari-karung//readme.md)
 
+👉 [Lari Jongkok Pakai Kayu](/lari-jongkok/readme.md) 
+
 👉 [Sarung Berantai](/sarung-berantai//readme.md)
 
 👉 [Lomba Makan Biskuit](/lomba-makan-biskuit//readme.md)
