@@ -5,6 +5,8 @@
 ### Aturan lomba
 
 ### Daftar peserta
+@p: Ferdi, ibu ita
+
 - nugi
 - alim
 - reszki
