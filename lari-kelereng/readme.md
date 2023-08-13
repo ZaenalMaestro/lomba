@@ -25,3 +25,8 @@ pj: Saira, Indah
 - ummu
 - syakila
 - geleng
+
+@daftar pemenang:
+- Alifa (juara 1) 
+- ummuh (juara 2) 
+- salsa (juara 3) 
