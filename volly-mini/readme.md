@@ -84,10 +84,10 @@
 
 ### 13 Agustus 2023
 Pj: Sabir(wasit), aan, adi (hakim garis), Enal(catatan)
-Match 1 - Tim Gemoi vs Penguasa Jalanan 
+Match 1 - Tim Gemoi (menang) vs Penguasa Jalanan 
 
 ### 14 Agustus 2023
-Match 2 - Condo - Condo Lotong vs Penjahat Ular
+Match 2 - Conda - Conda Lotong vs Penjahat Ular
 
 Match 3 - Satrova Girl vs Anekes
 
@@ -97,7 +97,7 @@ Match 4 - Asgar Squad vs Parakang 01
 Match 5 - Street Band vs MBS
 
 ### 16 Agustus 2023
-Match 6 - Pemenang Match 1 vs Pemenang Match 2
+Match 6 - Tim Gemoi vs Pemenang Match 2
 
 Match 7 - Pemenang Match 3 vs Pemenang Match 4 (Langsung Lolos Final)
 
