@@ -84,6 +84,7 @@
 
 ### 13 Agustus 2023
 Pj: Sabir(wasit), aan, adi (hakim garis), Enal(catatan)
+
 Match 1 - Tim Gemoi (menang) vs Penguasa Jalanan 
 
 ### 14 Agustus 2023
