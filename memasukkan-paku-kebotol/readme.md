@@ -40,4 +40,7 @@ pj: Ikka, Tenri
 - salwa
 
 
-### Jadwal lomba
+### Juara Lomba 🏆
+- parakang 01 -(juara 1)
+- Street band (juara 2)
+- Panter (juara 3) 
