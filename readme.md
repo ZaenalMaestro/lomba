@@ -16,13 +16,13 @@
 ### 15 Agustus 2023
 - `SESI 1`- Lari jongkok pakai batu bata
 - `SESI 2`- Sarung Berantai
-- `SESI 3` - Volly Mini Pakai Daster
+- `SESI 3` - Estafet Air
+- `SESI 4` - Volly Mini Pakai Daster
 
 ### 16 Agustus 2023
 - `SESI 1`- Lomba makan biskuit
 - `SESI 2`- Tarik tambang
-- `SESI 3`- Estafet Air
-- `SESI 4` - Volly Mini Pakai Daster
+- `SESI 3` - Volly Mini Pakai Daster
 
 ### 17 Agustus 2023
 - `SESI 1`- Tarik Tambang(Final)
