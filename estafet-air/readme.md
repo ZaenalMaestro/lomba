@@ -1,7 +1,7 @@
 [👈 Kembali kehalaman utama](/readme.md)
 
 
-# SARUNG BERANTAI
+# Estafet Air
 
 ### Aturan lomba
 
