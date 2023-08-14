@@ -102,12 +102,12 @@
 
 @tim penguasa jalanan
 - hj. ruha
-- tini
 - suma
 - herna
 - suriyani
 - ati
 - murti
+- hj. tomma
 
 @tim black pink
 - lisa
