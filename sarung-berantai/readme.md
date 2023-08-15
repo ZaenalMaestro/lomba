@@ -3,7 +3,10 @@
 
 # SARUNG BERANTAI
 
-### Aturan lomba
+### Juara lomba 🏆
+1. Stret band 
+2. Parakang 01
+3. Panter
 
 ### Daftar peserta
 
