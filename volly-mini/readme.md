@@ -102,7 +102,7 @@ Match 5 - Street Band vs MBS
 
 Semifinal 1 - Tim Gemoi vs Penjahat Ular
 
-Semifinal 2 - Pemenang Match 4  vs Pemenang Match 5
+Semifinal 2 - Asgar Squad vs MBS
 
 ### 17 Agustus 2023
 
