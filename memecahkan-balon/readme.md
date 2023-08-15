@@ -2,7 +2,16 @@
 
 # MEMECAHKAN BALON
 
-### Aturan lomba
+### Daftar pemenang 🏆
+@anak-anak:
+1. Nandar
+2. Geleng
+3. Alifa
+
+@remaja:
+1. Daus
+2. Dedi
+3. Fajar
 
 ### Daftar peserta
 @pj: Ferdi, ibu ita, sabir, rida
