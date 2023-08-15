@@ -36,11 +36,12 @@
 - adi
 - adam
 
-@condo-condo lotong
+@conda-conda lotong
 - awal
-- sinci
-- aris
-- ahmad
+- Pak Dusun
+- Doang
+- Hamma'
+- Pak Dusun
 
 @street band
 - aditya
