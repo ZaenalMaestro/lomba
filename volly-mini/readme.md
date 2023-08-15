@@ -102,8 +102,8 @@ Match 5 - Street Band vs MBS
 
 Match 6 - Tim Gemoi vs Penjahat Ular
 
-Match 7 - Pemenang Match 5 vs Pemenang Match 4 (Langsung Lolos Final)
+Match 7 - Pemenang Match 4 vs Pemenang Match 5
 
 ### 17 Agustus 2023
 
-Grand Final - Pemenang Match 7 vs Pemenang Match 8
+Grand Final - Pemenang Match 6 vs Pemenang Match 7
