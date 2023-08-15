@@ -98,12 +98,12 @@ Match 4 - Asgar Squad vs Parakang 01
 Match 5 - Street Band vs MBS
 
 ### 16 Agustus 2023
-@semfinal:
+@semifinal:
 
-Match 6 - Tim Gemoi vs Penjahat Ular
+Semifinal 1 - Tim Gemoi vs Penjahat Ular
 
-Match 7 - Pemenang Match 4 vs Pemenang Match 5
+Semifinal 2 - Pemenang Match 4  vs Pemenang Match 5
 
 ### 17 Agustus 2023
 
-Grand Final - Pemenang Match 6 vs Pemenang Match 7
+Grand Final - Pemenang Semifinal 1 vs Pemenang Semifinal 2
