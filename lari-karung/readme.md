@@ -2,6 +2,18 @@
 
 # LARI KARUNG
 
+### pemenang lomba 🏆
+@anak-anak:
+
+1. Aslan dan Wahyu
+2. Fadil
+3. Naufal
+
+@remaja:
+1. Dedi
+2. Abdullah
+3. Aditya
+
 ### Aturan lomba
 - lari pakai karung jongkok
 - diputar 3 kali
