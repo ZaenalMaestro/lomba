@@ -39,4 +39,15 @@
 - no name
 - 
 
-### Jadwal lomba
+### Daftar pemenang 🏆
+@anak-anak:
+
+1. Naufal
+2. Putra
+3. Bintang
+
+@remaja:
+
+1. Sahril
+2. Ari
+3. Fatur
