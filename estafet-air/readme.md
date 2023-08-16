@@ -56,5 +56,9 @@
 - mawar
 - ain (kanyaranggan)
 
+### Daftar pemenang 🏆🎉🏆
+1. street band
+2. parakang 01
+3. panter
 
 
