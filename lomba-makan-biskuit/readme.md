@@ -8,11 +8,11 @@
 @dewasan/remaja
 - hilmi
 - ari
-- hilman
+- hilman x
 - bombong
 - ahmad
 - ayyub
-- aditya
+- aditya x
 - dedi miswar
 - abdul
 - fatur
